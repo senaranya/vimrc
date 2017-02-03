@@ -129,7 +129,7 @@
       colorscheme spacegray
     endif
 
-    set t_CO=256                    " Use 256 colors
+    set t_Co=256                    " Use 256 colors
     syntax on
     set nonumber                      " Always show line numbers
     set nowrap                      " Do not wrap lines
