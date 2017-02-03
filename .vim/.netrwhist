@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/var/www/html/scriptsender/app/Services'
+let g:netrw_dirhist_2='/var/www/deploy/conf'
+let g:netrw_dirhist_3='/home/aranya/laracasts-downloader/App/Utils'
+let g:netrw_dirhist_4='/home/aranya/laracasts-downloader/App/System'
+let g:netrw_dirhist_5='/etc/php/7.0/cli'
