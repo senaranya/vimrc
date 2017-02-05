@@ -23,3 +23,10 @@ TBD
 
 ## Plugins
 This package uses [Vundle](https://github.com/VundleVim/Vundle.vim) to manage plugins. The file _.plugins.vim_ contains a list of plugins. To add a new plugin, add its Github name to this list and execute `:PluginInstall` inside vim.  
+
+## Screenshots
+####Split Screen
+![Split Screen](screenshots/split_screens.PNG)
+
+####File Explorer (using plugin [Nerd Tree](https://github.com/scrooloose/nerdtree)
+![File Explorer](screenshots/file_explorer.PNG)
